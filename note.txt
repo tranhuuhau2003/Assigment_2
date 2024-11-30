@@ -1,0 +1,15 @@
+Kiểm Tra Tổng Giá Trị Trong Giỏ Hàng
+Mô tả: Kiểm tra tổng giá trị của các sản phẩm trong giỏ hàng có chính xác không.
+Bước thực hiện:
+Thêm một số sản phẩm vào giỏ hàng.
+Kiểm tra tổng giá trị của các sản phẩm và so sánh với giá trị hiển thị trong giỏ hàng.
+
+Kiểm tra xử lý form:
+Kiểm tra xác nhận và lỗi: Sau khi gửi form, bạn có thể kiểm tra xem form có hiển thị thông báo thành công hay lỗi không.
+Kiểm tra các trường hợp biên: Điền vào form với các dữ liệu khác nhau (dữ liệu không hợp lệ, bỏ trống các trường) để kiểm tra cách form xử lý các đầu vào khác nhau.
+
+
+
+username k tồn tại
+sai pass
+không nhập

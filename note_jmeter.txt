@@ -1,0 +1,6 @@
+Throughput: Là số lượng yêu cầu mà máy chủ có thể xử lý trong một phút. Throughput càng cao thì hiệu năng máy chủ càng tốt.
+Deviation: Độ lệch chuẩn so với giá trị trung bình, chỉ số này càng nhỏ thì kết quả kiểm thử càng ổn định.
+6. Một Số Tính Năng Bổ Sung
+Timers: Thiết lập độ trễ giữa các yêu cầu để mô phỏng tình huống thực tế.
+Assertions: Kiểm tra phản hồi của yêu cầu có chứa nội dung mong muốn không.
+Controllers: Điều khiển luồng kiểm thử, cho phép lặp lại, ngẫu nhiên hóa, hoặc quản lý các mô-đun kiểm thử.
